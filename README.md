@@ -10,15 +10,15 @@ bash
 ```
 " pip install -r requirement.txt"
 
-
+```
 3: make a template.py file
-
+```
 Make a structure using template.py file.
 
 
-
+```
 4: Steps of commands:
-
+```
 1: git init
 2: dvc init
 3: dvc add data_given\winequality.csv
