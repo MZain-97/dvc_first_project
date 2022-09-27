@@ -17,7 +17,7 @@ Make a structure using template.py file.
 
 
 
-"Steps of commands:"
+4: Steps of commands:
 
 1: git init
 2: dvc init
